@@ -20,8 +20,8 @@ Project Organisation
 
 The project is organised as follows:
 
-> _data_ folder: raw data, graphs and analysis of selected experiments / simulations; please have a look at the README files;
+> [_data_](https://github.com/adadiaconescu/hca/data) folder: raw data, graphs and analysis of selected experiments / simulations; please have a look at the README files;
 
-> _videos_ folder: videos illustrating selected HCA simulations;
+> [_videos_](https://github.com/adadiaconescu/hca/videos) folder: videos illustrating selected HCA simulations;
 
 Please also see the project's [_wiki_](https://github.com/adadiaconescu/hca/wiki) for furhter documentation.
