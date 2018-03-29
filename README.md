@@ -3,7 +3,7 @@ Holonic Cellular Automata (HCA)
 ================================
 
 Project Description
-====================
+--------------------
 
 HCA is a multi-level feedback control simulator based on cellular automata (CA).
 
@@ -16,12 +16,12 @@ These interactions are replicated between successive levels, until reaching the 
 CA execute in parallel, with aggregate states and adaptation control travelling bottom-up and top-down through the HCA levels.
 
 Project Organisation
-=====================
+---------------------
 
 The project is organised as follows:
 
-> _data_ folder: raw data, graphs and analysis of selected experiments / simulations;
+> _data_ folder: raw data, graphs and analysis of selected experiments / simulations; please have a look at the README files;
 
 > _videos_ folder: videos illustrating selected HCA simulations;
 
-Please also see the project's wiki for furhter documentation.
+Please also see the project's _wiki_ for furhter documentation.
