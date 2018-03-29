@@ -24,4 +24,4 @@ The project is organised as follows:
 
 > _videos_ folder: videos illustrating selected HCA simulations;
 
-Please also see the project's _wiki_ for furhter documentation.
+Please also see the project's [_wiki_](https://github.com/adadiaconescu/hca/wiki) for furhter documentation.
